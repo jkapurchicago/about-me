@@ -1,0 +1,95 @@
+h1{ 
+ color: rgb(150, 61, 139); 
+}
+
+h4 { 
+color: ;  
+}
+
+li{ 
+    color: #FF0000;  
+}
+
+
+h4 { 
+    background: rgba (72, 61, 139); 
+}
+
+body {
+    background: url(https://www.graphicsbeam.com/wp-content/uploads/2013/03/Drawn-Wood-Grain-Texture-520x301.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+ }
+
+
+
+/*width 
+color 
+style */
+
+h1 { 
+   color: rgba(0, 200, 100, 0.8); 
+   border-color: purple; 
+   border-width: 5px;
+   border-style: solid; 
+}
+h1{
+border: 9px dashed rgb(255, 100, 80); 
+}
+p {
+text-decoration: underline; 
+}
+
+em { 
+text-decoration: none;
+ }
+
+ em { 
+     text-decoration: overline; 
+ }
+
+
+
+ 
+ p { 
+    text-emphasis-style: bold;
+}
+
+.under {
+    text-decoration: underline red;
+  }
+  
+  .over {
+    text-decoration: wavy overline lime;
+  }
+  
+  .line {
+    text-decoration: line-through;
+  }
+  
+  .plain {
+    text-decoration: none;
+  }
+  
+  .underover {
+    text-decoration: dashed underline overline;
+  }
+  
+  .blink {
+    text-decoration: blink;
+  }
+
+
+  .under{ 
+      text-decoration: underline redl
+  }
+
+
+
+  .under{ 
+      text-decoration: #FF0000; 
+  }
+
+.over{
+    text-decoration: wavy overline;
+}
